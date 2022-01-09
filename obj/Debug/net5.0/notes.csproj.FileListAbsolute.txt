@@ -19,7 +19,6 @@ D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\notes.csproj.Co
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\notes.MvcApplicationPartsAssemblyInfo.cs
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\notes.MvcApplicationPartsAssemblyInfo.cache
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\staticwebassets\notes.StaticWebAssets.Manifest.cache
-D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\staticwebassets\notes.StaticWebAssets.xml
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\scopedcss\bundle\notes.styles.css
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\notes.RazorTargetAssemblyInfo.cache
 D:\Software_Development\Projects\Personal\notes\obj\Debug\net5.0\notes.csproj.CopyComplete
